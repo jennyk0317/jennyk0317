@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jennyk0317
-- 👀 I’m interested in computer vision and wearable technologies focused on improving human health
+- 🌱 I’m interested in designing products (utilitizing computer vision and wearable technologies) focused on improving human health
 - 🌱 I’m currently studying Biomedical Engineering at ETH Zürich
-- 🌱 I'm currently a Visiting Student Researcher at Snyder Lab, Stanford School of Medicine
-- 💞️ I’m looking to collaborate on projects in personalized health
+- 🌱 I'm currently a Visiting Researcher at Snyder Lab, Stanford School of Medicine
+- 🌱 I’m looking to collaborate on projects in personalized health
 - 📫 Reach me at jikimji@ethz.ch
 
 <!---
